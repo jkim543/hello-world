@@ -1,0 +1,124 @@
+.
+|-- CheckLab1.py
+|-- gitlog.txt
+|-- hello-world
+|   |-- .git
+|   |   |-- HEAD
+|   |   |-- branches
+|   |   |-- config
+|   |   |-- description
+|   |   |-- hooks
+|   |   |   |-- applypatch-msg.sample
+|   |   |   |-- commit-msg.sample
+|   |   |   |-- fsmonitor-watchman.sample
+|   |   |   |-- post-update.sample
+|   |   |   |-- pre-applypatch.sample
+|   |   |   |-- pre-commit.sample
+|   |   |   |-- pre-push.sample
+|   |   |   |-- pre-rebase.sample
+|   |   |   |-- pre-receive.sample
+|   |   |   |-- prepare-commit-msg.sample
+|   |   |   `-- update.sample
+|   |   |-- index
+|   |   |-- info
+|   |   |   `-- exclude
+|   |   |-- logs
+|   |   |   |-- HEAD
+|   |   |   `-- refs
+|   |   |       |-- heads
+|   |   |       |   `-- master
+|   |   |       `-- remotes
+|   |   |           `-- origin
+|   |   |               `-- HEAD
+|   |   |-- objects
+|   |   |   |-- 64
+|   |   |   |   `-- 3fb6f94b4d6a544d122a991d03d9444be6ccfd
+|   |   |   |-- 6b
+|   |   |   |   `-- 70de98f8e7e48afb5aaf8a27fd7dee96e085bc
+|   |   |   |-- 6c
+|   |   |   |   `-- bade5bbd142abd1b4ce05b88e31ff9687ac09a
+|   |   |   |-- b2
+|   |   |   |   `-- 1f2cca6e6bb9defa68199c15797bb213e30092
+|   |   |   |-- b3
+|   |   |   |   `-- 3b63f8fd2bb89af882229f7ec74dcf1c8e17b2
+|   |   |   |-- c8
+|   |   |   |   `-- c38e6e4fc50877b46d9a3f7ed98d3d495e1b31
+|   |   |   |-- ee
+|   |   |   |   `-- 5b50e6cdb6253aa7df1ddba17397f12b589ded
+|   |   |   |-- info
+|   |   |   `-- pack
+|   |   |-- packed-refs
+|   |   `-- refs
+|   |       |-- heads
+|   |       |   `-- master
+|   |       |-- remotes
+|   |       |   `-- origin
+|   |       |       `-- HEAD
+|   |       `-- tags
+|   `-- README.md
+|-- jkim543
+|   |-- .git
+|   |   |-- HEAD
+|   |   |-- branches
+|   |   |-- config
+|   |   |-- description
+|   |   |-- hooks
+|   |   |   |-- applypatch-msg.sample
+|   |   |   |-- commit-msg.sample
+|   |   |   |-- fsmonitor-watchman.sample
+|   |   |   |-- post-update.sample
+|   |   |   |-- pre-applypatch.sample
+|   |   |   |-- pre-commit.sample
+|   |   |   |-- pre-push.sample
+|   |   |   |-- pre-rebase.sample
+|   |   |   |-- pre-receive.sample
+|   |   |   |-- prepare-commit-msg.sample
+|   |   |   `-- update.sample
+|   |   |-- index
+|   |   |-- info
+|   |   |   `-- exclude
+|   |   |-- logs
+|   |   |   |-- HEAD
+|   |   |   `-- refs
+|   |   |       |-- heads
+|   |   |       |   `-- master
+|   |   |       `-- remotes
+|   |   |           `-- origin
+|   |   |               `-- HEAD
+|   |   |-- objects
+|   |   |   |-- 64
+|   |   |   |   `-- 3fb6f94b4d6a544d122a991d03d9444be6ccfd
+|   |   |   |-- 6b
+|   |   |   |   `-- 70de98f8e7e48afb5aaf8a27fd7dee96e085bc
+|   |   |   |-- 6c
+|   |   |   |   `-- bade5bbd142abd1b4ce05b88e31ff9687ac09a
+|   |   |   |-- b2
+|   |   |   |   `-- 1f2cca6e6bb9defa68199c15797bb213e30092
+|   |   |   |-- b3
+|   |   |   |   `-- 3b63f8fd2bb89af882229f7ec74dcf1c8e17b2
+|   |   |   |-- c8
+|   |   |   |   `-- c38e6e4fc50877b46d9a3f7ed98d3d495e1b31
+|   |   |   |-- ee
+|   |   |   |   `-- 5b50e6cdb6253aa7df1ddba17397f12b589ded
+|   |   |   |-- info
+|   |   |   `-- pack
+|   |   |-- packed-refs
+|   |   `-- refs
+|   |       |-- heads
+|   |       |   `-- master
+|   |       |-- remotes
+|   |       |   `-- origin
+|   |       |       `-- HEAD
+|   |       `-- tags
+|   `-- README.md
+|-- lab1a.py
+|-- lab1a.py.
+|-- lab1b.py
+|-- lab1c.py
+|-- lab1prt.py
+|-- lab1pt.py
+|-- ops435-lab1
+|-- repo_tree.txt
+`-- sample.py
+
+50 directories, 71 files
